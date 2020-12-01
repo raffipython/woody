@@ -1,7 +1,7 @@
 # woody
 USAA Bank statement extractor
 
-It extracts and combines USAA Checking Account statement into one CSV. It helps for W2 and create easy reports afterwards.
+It extracts and combines USAA Checking Account statement into one CSV. It create easy to read report.
 Tested only on Windows so far (based on client request).
 
 Make sure PyPDF2 is in the same folder.
