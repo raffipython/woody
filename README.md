@@ -6,7 +6,7 @@ Tested only on Windows so far (based on client request).
 
 Make sure PyPDF2 is in the same folder.
 Using python3 (make sure it is in your ENV variable), run as follow:
-where PDF is a folder containing statements
+where PDF is a folder containing statements, easiest way is to create a new folder in woody-main and copy PDF files there.
 >python  woody_pdf_v2.1.1.py -d PDF
 
 
