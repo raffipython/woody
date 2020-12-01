@@ -33,3 +33,6 @@ It supports these types of transactions so far. (If you found a new one, please 
             # "USAA CREDIT CARD PMT""
             # "ATM SERVICE FEE"
 
+Report CSV headers:
+DATE	FILENAME	TYPE	AMOUNT	DESC	DATE(IF APPICABLE)	OTHER_INFO	OTHER_INFO_2
+
